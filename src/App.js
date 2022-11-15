@@ -6,7 +6,7 @@ function App() {
       <Navbar />
       <div className="d-flex gap-4 justify-content-center pt-5">
         <Cards
-          title="JavaScript"
+          title="JavaScript and Js"
           src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
           prag="lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10lorem10"
         />
